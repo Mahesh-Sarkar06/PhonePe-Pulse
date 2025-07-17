@@ -45,7 +45,7 @@ phonepe-pulse-pipeline/
 │   ├── User State Reading.dbc       # Load and read JSON files
 │   ├── Users Data Reading.dbc       # Custom UDFs to flatten nested data
 │
-├── data/                             # Sample JSON files (optional)
+├── data/                             # [PhonePe Pulse](https://github.com/PhonePe/pulse)
 │
 ├── README.md                         # Project documentation
 │
